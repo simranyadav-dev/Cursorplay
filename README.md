@@ -2,5 +2,6 @@
 
 A painting game . 
 
-##Coming soon......
+## Coming soon......
  launching soonnnnn Have some paitence 
+# waiting to free from work 
